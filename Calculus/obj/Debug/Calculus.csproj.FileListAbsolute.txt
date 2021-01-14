@@ -1,0 +1,89 @@
+C:\Users\Alex\Desktop\Calculus\Calculus\bin\Debug\Calculus.exe.config
+C:\Users\Alex\Desktop\Calculus\Calculus\bin\Debug\Calculus.exe
+C:\Users\Alex\Desktop\Calculus\Calculus\bin\Debug\Calculus.pdb
+C:\Users\Alex\Desktop\Calculus\Calculus\bin\Debug\ZedGraph.dll
+C:\Users\Alex\Desktop\Calculus\Calculus\bin\Debug\ZedGraph.Web.dll
+C:\Users\Alex\Desktop\Calculus\Calculus\bin\Debug\ZedGraph.xml
+C:\Users\Alex\Desktop\Calculus\Calculus\bin\Debug\ZedGraph.Web.xml
+C:\Users\Alex\Desktop\Calculus\Calculus\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Alex\Desktop\Calculus\Calculus\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Alex\Desktop\Calculus\Calculus\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Alex\Desktop\Calculus\Calculus\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Alex\Desktop\Calculus\Calculus\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Alex\Desktop\Calculus\Calculus\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Alex\Desktop\Calculus\Calculus\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Alex\Desktop\Calculus\Calculus\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Alex\Desktop\Calculus\Calculus\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Alex\Desktop\Calculus\Calculus\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Alex\Desktop\Calculus\Calculus\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Alex\Desktop\Calculus\Calculus\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Alex\Desktop\Calculus\Calculus\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Alex\Desktop\Calculus\Calculus\obj\Debug\Calculus.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Calculus\Calculus\obj\Debug\Calculus.Form1.resources
+C:\Users\Alex\Desktop\Calculus\Calculus\obj\Debug\Calculus.Properties.Resources.resources
+C:\Users\Alex\Desktop\Calculus\Calculus\obj\Debug\Calculus.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Calculus\Calculus\obj\Debug\Calculus.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Calculus\Calculus\obj\Debug\Calculus.csproj.CopyComplete
+C:\Users\Alex\Desktop\Calculus\Calculus\obj\Debug\Calculus.exe
+C:\Users\Alex\Desktop\Calculus\Calculus\obj\Debug\Calculus.pdb
+C:\Users\Alex\Desktop\Calculus\Calculus\obj\Debug\Calculus.Form2.resources
+C:\Users\Alex\Desktop\Calculus\Calculus\obj\Debug\Calculus.Form0.resources
+C:\Windows folder desk\Windows\Calculus\Calculus\bin\Debug\Calculus.exe.config
+C:\Windows folder desk\Windows\Calculus\Calculus\bin\Debug\Calculus.exe
+C:\Windows folder desk\Windows\Calculus\Calculus\bin\Debug\Calculus.pdb
+C:\Windows folder desk\Windows\Calculus\Calculus\bin\Debug\ZedGraph.dll
+C:\Windows folder desk\Windows\Calculus\Calculus\bin\Debug\ZedGraph.Web.dll
+C:\Windows folder desk\Windows\Calculus\Calculus\bin\Debug\ZedGraph.xml
+C:\Windows folder desk\Windows\Calculus\Calculus\bin\Debug\ZedGraph.Web.xml
+C:\Windows folder desk\Windows\Calculus\Calculus\bin\Debug\de\ZedGraph.resources.dll
+C:\Windows folder desk\Windows\Calculus\Calculus\bin\Debug\es\ZedGraph.resources.dll
+C:\Windows folder desk\Windows\Calculus\Calculus\bin\Debug\fr\ZedGraph.resources.dll
+C:\Windows folder desk\Windows\Calculus\Calculus\bin\Debug\hu\ZedGraph.resources.dll
+C:\Windows folder desk\Windows\Calculus\Calculus\bin\Debug\it\ZedGraph.resources.dll
+C:\Windows folder desk\Windows\Calculus\Calculus\bin\Debug\ja\ZedGraph.resources.dll
+C:\Windows folder desk\Windows\Calculus\Calculus\bin\Debug\pt\ZedGraph.resources.dll
+C:\Windows folder desk\Windows\Calculus\Calculus\bin\Debug\ru\ZedGraph.resources.dll
+C:\Windows folder desk\Windows\Calculus\Calculus\bin\Debug\sk\ZedGraph.resources.dll
+C:\Windows folder desk\Windows\Calculus\Calculus\bin\Debug\sv\ZedGraph.resources.dll
+C:\Windows folder desk\Windows\Calculus\Calculus\bin\Debug\tr\ZedGraph.resources.dll
+C:\Windows folder desk\Windows\Calculus\Calculus\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Windows folder desk\Windows\Calculus\Calculus\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Windows folder desk\Windows\Calculus\Calculus\obj\Debug\Calculus.csprojAssemblyReference.cache
+C:\Windows folder desk\Windows\Calculus\Calculus\obj\Debug\Calculus.Form0.resources
+C:\Windows folder desk\Windows\Calculus\Calculus\obj\Debug\Calculus.Form2.resources
+C:\Windows folder desk\Windows\Calculus\Calculus\obj\Debug\Calculus.Form1.resources
+C:\Windows folder desk\Windows\Calculus\Calculus\obj\Debug\Calculus.Properties.Resources.resources
+C:\Windows folder desk\Windows\Calculus\Calculus\obj\Debug\Calculus.csproj.GenerateResource.cache
+C:\Windows folder desk\Windows\Calculus\Calculus\obj\Debug\Calculus.csproj.CopyComplete
+C:\Windows folder desk\Windows\Calculus\Calculus\obj\Debug\Calculus.exe
+C:\Windows folder desk\Windows\Calculus\Calculus\obj\Debug\Calculus.pdb
+C:\0\Windows\Calculus\Calculus\bin\Debug\Calculus.exe.config
+C:\0\Windows\Calculus\Calculus\bin\Debug\Calculus.exe
+C:\0\Windows\Calculus\Calculus\bin\Debug\Calculus.pdb
+C:\0\Windows\Calculus\Calculus\bin\Debug\ZedGraph.dll
+C:\0\Windows\Calculus\Calculus\bin\Debug\ZedGraph.Web.dll
+C:\0\Windows\Calculus\Calculus\bin\Debug\ZedGraph.xml
+C:\0\Windows\Calculus\Calculus\bin\Debug\ZedGraph.Web.xml
+C:\0\Windows\Calculus\Calculus\bin\Debug\de\ZedGraph.resources.dll
+C:\0\Windows\Calculus\Calculus\bin\Debug\es\ZedGraph.resources.dll
+C:\0\Windows\Calculus\Calculus\bin\Debug\fr\ZedGraph.resources.dll
+C:\0\Windows\Calculus\Calculus\bin\Debug\hu\ZedGraph.resources.dll
+C:\0\Windows\Calculus\Calculus\bin\Debug\it\ZedGraph.resources.dll
+C:\0\Windows\Calculus\Calculus\bin\Debug\ja\ZedGraph.resources.dll
+C:\0\Windows\Calculus\Calculus\bin\Debug\pt\ZedGraph.resources.dll
+C:\0\Windows\Calculus\Calculus\bin\Debug\ru\ZedGraph.resources.dll
+C:\0\Windows\Calculus\Calculus\bin\Debug\sk\ZedGraph.resources.dll
+C:\0\Windows\Calculus\Calculus\bin\Debug\sv\ZedGraph.resources.dll
+C:\0\Windows\Calculus\Calculus\bin\Debug\tr\ZedGraph.resources.dll
+C:\0\Windows\Calculus\Calculus\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\0\Windows\Calculus\Calculus\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\0\Windows\Calculus\Calculus\obj\Debug\Calculus.csprojAssemblyReference.cache
+C:\0\Windows\Calculus\Calculus\obj\Debug\Calculus.Form0.resources
+C:\0\Windows\Calculus\Calculus\obj\Debug\Calculus.Form2.resources
+C:\0\Windows\Calculus\Calculus\obj\Debug\Calculus.Form1.resources
+C:\0\Windows\Calculus\Calculus\obj\Debug\Calculus.Properties.Resources.resources
+C:\0\Windows\Calculus\Calculus\obj\Debug\Calculus.csproj.GenerateResource.cache
+C:\0\Windows\Calculus\Calculus\obj\Debug\Calculus.csproj.CoreCompileInputs.cache
+C:\0\Windows\Calculus\Calculus\obj\Debug\Calculus.csproj.CopyComplete
+C:\0\Windows\Calculus\Calculus\obj\Debug\Calculus.exe
+C:\0\Windows\Calculus\Calculus\obj\Debug\Calculus.pdb
